@@ -1,4 +1,4 @@
-## Eloquent Performance Course: Out of RAM Example
+## Eloquent Performance Course: Example of withAvg() / withMax() / withMin()
 
 One repository from my course about Eloquent Performance.
 
